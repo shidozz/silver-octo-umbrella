@@ -1,0 +1,11 @@
+run.bat
+.env
+streams.json
+node_modules/
+package-lock.json
+logs.bat
+publish.bat
+firebase-debug.log
+Procfile
+music/
+commands/musique/
